@@ -557,6 +557,10 @@ input[type="submit" i]{
   .list-line li {
     padding-left: 0;
   }
+  span.la.la-3x.mb-4.ml-5.text-center {
+    margin-left: 0rem!important;
+    margin-right: 2rem;
+  }
 }
 
 .width-15{
